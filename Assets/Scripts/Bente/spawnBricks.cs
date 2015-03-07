@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class spawnBricks : MonoBehaviour {
+public class SpawnBricks : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
