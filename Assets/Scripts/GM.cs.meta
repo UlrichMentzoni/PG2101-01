@@ -2,7 +2,13 @@ fileFormatVersion: 2
 guid: dd7a74d1402f71b4fb5e07fee1a2926b
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - youWon: {instanceID: 0}
+  - bricksPrefab: {instanceID: 0}
+  - paddle: {fileID: 113352, guid: a8212d0c8b5524a4e8fe7a4bc02e785c, type: 2}
+  - deathParticles: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
